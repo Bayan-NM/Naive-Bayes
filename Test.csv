@@ -1,0 +1,7 @@
+0,1,2,3,4,5
+Pat .N. ,Hypertension ,Cholesterol Lev .,Smoker ,Weight ,Coronary Dis .
+ID015 ,"""Yes ""","""Normal ""","""Yes ""","""Obese ""","""Yes """
+ID016 ,"""No ""","""Normal ""","""Yes ""","""Overweigh ""","""Yes """
+ID017 ,"""Yes ""","""High ""","""Yes ""","""Obese ""","""Yes """
+ID018 ,"""Yes ""","""High ""","""No ""","""Normal ""","""No """
+ID019 ,"""Yes ""","""Normal ""","""No ""","""Normal ""","""No """

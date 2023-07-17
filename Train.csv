@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+Pat .N. ,Hypertension ,Cholesterol Lev .,Smoker ,Weight ,Coronary Dis .
+ID001 ,"""Yes ""","""Normal ""","""No ""","""Overweight ""","""Yes """
+ID002 ,"""No ""","""Normal ""","""Yes ""","""Normal ""","""No """
+ID003 ,"""No ""","""Critical ""","""No ""","""Overweight ""","""Yes """
+ID004 ,"""No ""","""High ""","""Yes ""","""Overweight ""","""Yes """
+ID005 ,"""Yes ""","""Critical ""","""Yes ""","""Obese ""","""Yes """
+ID006 ,"""Yes ""","""High ""","""Yes ""","""Normal ""","""Yes """
+ID007 ,"""No ""","""High ""","""No ""","""Obese ""","""No """
+ID008 ,"""Yes ""","""Normal ""","""Yes ""","""Normal ""","""Yes """
+ID009 ,"""Yes ""","""Critical ""","""No ""","""Obese ""","""Yes """
+ID010 ,"""No ""","""Normal """,“No ”,"""Overweight ""","""No """
+ID011 ,"""No ""","""Critical ""","""Yes ""","""Normal ""","""Yes """
+ID012 ,"""Yes ""","""High ""","""No ""","""Overweight ""","""No """
+ID013 ,"""Yes ""","""Normal ""","""Yes ""","""Overweight ""","""Yes """
+ID014 ,"""Yes ""","""High """,“No ”,"""Obese ""","""No """
